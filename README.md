@@ -3,7 +3,7 @@
 Spring Boot Backend Developer | Java | REST APIs
 
 📄 **Resume**  
-[Download Resume](./Harshdeep_Chandra_Spring_Boot_Backend_Developer.pdf)
+[Download Resume](Harshdeep_Chandra_Spring_Boot_Backend_Developer.pdf)
 
 ## Skills
 - Java, Spring Boot, REST APIs
